@@ -1,4 +1,4 @@
-# ROLL-A-BALL - MY FIRS VIDEOGAME MADE IN UNITY
+# ROLL-A-BALL - MY FIRST VIDEOGAME MADE IN UNITY
 
 Roll a ball is an entertainer videogame with the main goal is to collect yellow cubes as much possible and trying to avoid the red ones. 
 In case you hit a red cube, one point will be a decreased in your score. 
